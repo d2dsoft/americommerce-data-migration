@@ -21,6 +21,7 @@
 - [Magento to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/800-7276-magento-to-americommerce-migration-tool.html#/72-entities-1000)
 - [MarketPress to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/801-7277-marketpress-to-americommerce-migration-tool.html#/72-entities-1000)
 - [OpenCart to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/802-7278-opencart-to-americommerce-migration-tool.html#/72-entities-1000)
+- [osCMax to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/1180-11535-oscmax-to-americommerce-migration-tool.html#/72-entities-1000)
 - [osCommerce to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/803-7279-oscommerce-to-americommerce-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/804-7280-oxid-eshop-to-americommerce-migration-tool.html#/72-entities-1000)
 - [Prestashop to AmeriCommerce Migration](https://d2d-soft.com/americommerce-migration/805-7281-prestashop-to-americommerce-migration-tool.html#/72-entities-1000)
@@ -56,6 +57,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
